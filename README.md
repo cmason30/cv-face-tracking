@@ -10,3 +10,7 @@ Race - thoughts
 I like the idea of making a Neural Similarity models because then we don't need lots of images for the predicted persons. Just one image. How would we get a Null class? Would the null class just be the model not passing a confidence threshold for any class?
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Colin Thoughts**
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[Detectron2] https://github.com/facebookresearch/detectron2 - Built by Facebook and integrated with Pytorch for facial recognition and tracking. 
